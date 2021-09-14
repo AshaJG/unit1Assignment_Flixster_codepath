@@ -18,6 +18,7 @@
 Describe any challenges encountered while building the app.
 ---
 
+
 ## Flix Part 1
 
 ### User Stories
@@ -34,9 +35,8 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/8Ang1wu.gif)
 
-
+![](https://i.imgur.com/tN3gvC9.gif)
 
 
 ### Notes
